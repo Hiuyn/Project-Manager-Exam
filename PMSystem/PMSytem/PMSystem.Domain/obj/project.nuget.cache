@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "FZaHDeyp/ai4uA3IRpGvG00tjHj2Ac1XHnfs6nTGpDmtxVNmkRm3Wp1F3tucSiAkuan4wXBGB+xmM0nCZkHKTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\QuynhDan-Computer\\source\\repos\\PMSystem\\PMSystem.Domain\\PMSystem.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\csvhelper\\21.3.1\\csvhelper.21.3.1.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\5.0.3\\microsoft.codeanalysis.netanalyzers.5.0.3.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.security.claims\\4.3.0\\system.security.claims.4.3.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.security.principal\\4.3.0\\system.security.principal.4.3.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
+    "C:\\Users\\QuynhDan-Computer\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

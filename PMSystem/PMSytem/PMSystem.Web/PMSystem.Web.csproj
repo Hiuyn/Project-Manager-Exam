@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>PMSystem.Web</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PMSystem.Domain\PMSystem.Domain.csproj" />
+    <ProjectReference Include="..\PMSystem.Infrastructure\PMSystem.Infrastructure.csproj" />
+  </ItemGroup>
+
+  
+</Project>

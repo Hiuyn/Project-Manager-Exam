@@ -1,0 +1,14 @@
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\bin\Debug\net5.0\PMSystem.Domain.deps.json
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\bin\Debug\net5.0\PMSystem.Domain.dll
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\bin\Debug\net5.0\ref\PMSystem.Domain.dll
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\bin\Debug\net5.0\PMSystem.Domain.pdb
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\obj\Debug\net5.0\PMSystem.Domain.csprojAssemblyReference.cache
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\obj\Debug\net5.0\PMSystem.Domain.Resources.DomainResource.resources
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\obj\Debug\net5.0\PMSystem.Domain.csproj.GenerateResource.cache
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\obj\Debug\net5.0\PMSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\obj\Debug\net5.0\PMSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\obj\Debug\net5.0\PMSystem.Domain.AssemblyInfo.cs
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\obj\Debug\net5.0\PMSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\obj\Debug\net5.0\PMSystem.Domain.dll
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\obj\Debug\net5.0\ref\PMSystem.Domain.dll
+C:\Users\QuynhDan-Computer\source\repos\PMSystem\PMSystem.Domain\obj\Debug\net5.0\PMSystem.Domain.pdb
